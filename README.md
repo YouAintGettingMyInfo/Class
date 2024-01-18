@@ -1,1 +1,3 @@
 # Class
+
+Just class exercises
